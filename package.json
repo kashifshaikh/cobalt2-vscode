@@ -1,8 +1,8 @@
 {
-  "name": "theme-cobalt2",
+  "name": "theme-kashif-cobalt2",
   "version": "2.1.6",
-  "displayName": "Cobalt2 Theme Official",
-  "description": "🔥 Official theme by Wes Bos.",
+  "displayName": "Cobalt2 Theme Kashif",
+  "description": "🔥 Official theme by Wes Bos - Hacked by Kashif",
   "publisher": "wesbos",
   "icon": "images/logo.png",
   "repository": {
@@ -13,13 +13,8 @@
     "color": "#193549",
     "theme": "dark"
   },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "VSCode",
-    "Themes"
-  ],
+  "categories": ["Themes"],
+  "keywords": ["VSCode", "Themes"],
   "engines": {
     "vscode": "^1.15.0"
   },
@@ -29,7 +24,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Cobalt2",
+        "label": "Kashif's Cobalt2",
         "uiTheme": "vs-dark",
         "path": "./theme/cobalt2.json"
       }
