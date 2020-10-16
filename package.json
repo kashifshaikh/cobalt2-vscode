@@ -13,8 +13,13 @@
     "color": "#193549",
     "theme": "dark"
   },
-  "categories": ["Themes"],
-  "keywords": ["VSCode", "Themes"],
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "VSCode",
+    "Themes"
+  ],
   "engines": {
     "vscode": "^1.15.0"
   },
@@ -31,7 +36,9 @@
     ]
   },
   "devDependencies": {
-    "nodemon": "^1.14.12",
-    "vsce": "^1.36.2"
+    "nodemon": "^1.14.12"
+  },
+  "dependencies": {
+    "vsce": "^1.81.1"
   }
 }
